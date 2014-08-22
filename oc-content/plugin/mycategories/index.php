@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Arrange Category
-Plugin URI: http://www.govindak.com.np
+Plugin URI: http://www.GarageBargain.com
 Description: Arrange Category
 Version: 1.0
-Author: govindak
-Author URI: naturalfiber@gmail.com
+Author: GarageBargain
+Author URI: cto@garagebargain.com
 Short Name: mycategories
 Plugin update URI: xml-import-export-category
 */
