@@ -2,9 +2,9 @@
 
 /*
 Plugin Name: Arrange Category
-Plugin URI: http://www.GarageBargain.com
+Plugin URI: http://www.GarageBargain.org
 Description: Arrange Category
-Version: 1.0
+Version: 1.1
 Author: GarageBargain
 Author URI: cto@garagebargain.com
 Short Name: mycategories
