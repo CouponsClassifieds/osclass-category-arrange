@@ -6,7 +6,7 @@ Plugin URI: http://www.GarageBargain.org
 Description: Arrange Category
 Version: 1.1
 Author: GarageBargain
-Author URI: cto@garagebargain.com
+Author URI: http://www.GarageBargain.org
 Short Name: mycategories
 Plugin update URI: xml-import-export-category
 */
